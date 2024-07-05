@@ -11,3 +11,10 @@ console.log(myCreatedDate.toLocaleString());
 
 let myTimeStamp = Date.now();
 console.log(myTimeStamp);
+
+let newDate = new Date();
+console.log(newDate.getDate());
+
+// console.log((newDate.toLocaleDateString('default', {
+//     weekday: "long";
+// })))
