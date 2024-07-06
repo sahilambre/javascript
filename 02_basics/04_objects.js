@@ -62,3 +62,6 @@ const course = {
 const { courseInstructor } = course;
 
 console.log(courseInstructor);
+
+const myArray = [];
+console.log();
